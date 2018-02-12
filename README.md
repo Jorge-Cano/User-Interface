@@ -1,6 +1,9 @@
 # User-Interface
 client facing dashboard &amp; interface.
 
+<!-- Have .SCSS file Watch CSS
+Run this command in Bash: sass --watch css/style.scss:css/stylesheet.css -->
+
 To Help Decide on Colors & Patterns in the Design:
 http://paletton.com/#uid=13C0u0kllllaFw0g0qFqFg0w0aF
 

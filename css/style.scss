@@ -1,9 +1,23 @@
 $font-stack:    Work Sans, sans-serif;
-$primary-color: #333;
+
+// blue
+$primary-color: #2B4A6F;
+$primary-color-1: #748BA7;
+$primary-color-2: #4B688B;
+$primary-color-3: #143153;
+$primary-color-4: #051C38;
+
+// yellow
+$secondary-color: #FFB82A;
+$secondary-color-1: #FFD37B;
+$secondary-color-2: #FFC551;
+$secondary-color-3: #E99B00;
+$secondary-color-4: #B47800;
 
 body {
   font: 100% $font-stack;
-  color: $primary-color;
+  color: $secondary-color;
   text-align: center;
   font-size: 36px;
+  background:$primary-color;
 }
