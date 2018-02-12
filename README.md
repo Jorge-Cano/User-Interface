@@ -70,3 +70,5 @@ GUI Design & implementation - Designers after having information about requireme
 
 Testing - GUI testing can be done in various ways. Organization can have in-house inspection, direct involvement of users and release of beta version are few of them. Testing may include usability, compatibility, user acceptance etc.
 ```
+
+<img src="LC-UserFlow.png" alt="UserFlow">
