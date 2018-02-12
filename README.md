@@ -1,9 +1,10 @@
 # User-Interface
-Client Facing Dashboard &amp; interface.
-This is a my live example on a custom build, GUI/Dashboard for a
+Client Facing Dashboard &amp; Interface.
+
+This is a my live example of a custom built GUI/Dashboard for a
 client facing application. For this example I will build a
 Social Media and Email Automation Dashboard to include basic Metrics, KPI's and Reporting
-as well as an Outline for Posts to be send in a Month view. It will not have a backend built this is just for the purpose of showcasing a UI.
+as well as an Outline for Posts to be sent in a 30 day calendar view. It will not have a backend to store data, it will have seeded information for the purpose of showcasing a UI.
 
 <!-- Have .SCSS file Watch CSS
 Run this command in Bash: sass --watch css/style.scss:css/stylesheet.css -->
