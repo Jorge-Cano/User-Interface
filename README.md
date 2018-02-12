@@ -4,7 +4,8 @@ client facing dashboard &amp; interface.
 To Help Decide on Colors & Patterns in the Design:
 http://paletton.com/#uid=13C0u0kllllaFw0g0qFqFg0w0aF
 
-Decided to implement SASS for a CSS preprocessor
+Decided to implement SASS for a CSS preprocessor:
+https://sass-lang.com/
 
 
 // SASS style sheet */
