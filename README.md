@@ -7,6 +7,7 @@ http://paletton.com/#uid=13C0u0kllllaFw0g0qFqFg0w0aF
 Decided to implement SASS for a CSS preprocessor:
 https://sass-lang.com/
 
+<img src="Sass-Blue.png" alt="Blues">
 
 // SASS style sheet
 // Palette color codes
@@ -33,6 +34,8 @@ $rgba-primary-4: rgba(  5, 28, 56,1);
 
 
 http://paletton.com/#uid=10X0u0kqMy4gyJJlQChv+tcyAm-
+
+<img src="Sass-Yellow.png" alt="Yellows">
 
 */ YELLOWS */
 
