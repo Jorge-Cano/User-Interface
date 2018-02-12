@@ -2,4 +2,9 @@ html, body {
   background: gray;
   text-align: center;
   color: white;
+  font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+  font-size: 48px;
 }
